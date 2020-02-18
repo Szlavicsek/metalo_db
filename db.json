@@ -1,0 +1,4620 @@
+[
+  {
+    "id": 0,
+    "guid": "5ced0c50-be0a-47bb-a53b-adb4a4b26442",
+    "imgSrc": "24_cover.png",
+    "name": "Project 34",
+    "description": "Officia aliqua nisi consectetur duis qui reprehenderit aute.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 38,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 70689,
+    "sale_start": "20-10-2019",
+    "sale_end": "29-02-2020",
+    "sale_price": 20453,
+    "rentable": false,
+    "rentable_price": 22998,
+    "created_at": "27-05-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 4
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      6,
+      6,
+      5,
+      2
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 25294
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 13211
+      },
+      {
+        "name": "Ferde tető",
+        "price": 25408
+      },
+      {
+        "name": "Ülőpad",
+        "price": 29294
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "guid": "70b5601a-dd16-4f7a-8831-99c7e96553e5",
+    "imgSrc": "24_cover.png",
+    "name": "Project 28",
+    "description": "Id adipisicing incididunt veniam ullamco ad.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 6,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 17,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 171087,
+    "sale_start": "21-10-2019",
+    "sale_end": "15-02-2020",
+    "sale_price": 17836,
+    "rentable": false,
+    "rentable_price": 26660,
+    "created_at": "21-07-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      3,
+      1,
+      4,
+      6
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 16190
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 15312
+      },
+      {
+        "name": "Ferde tető",
+        "price": 21277
+      },
+      {
+        "name": "Ülőpad",
+        "price": 11036
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "guid": "7f313e0f-3183-4ed7-9a01-f77428dbbc95",
+    "imgSrc": "24_cover.png",
+    "name": "Project 23",
+    "description": "Consectetur sint anim Lorem eiusmod adipisicing cillum adipisicing aute labore excepteur aliquip.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 2,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 20,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 199359,
+    "sale_start": "06-10-2019",
+    "sale_end": "18-02-2020",
+    "sale_price": 25990,
+    "rentable": false,
+    "rentable_price": 18285,
+    "created_at": "13-11-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 700
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      1,
+      3,
+      3,
+      1
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 19908
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 13987
+      },
+      {
+        "name": "Ferde tető",
+        "price": 18089
+      },
+      {
+        "name": "Ülőpad",
+        "price": 24583
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "guid": "d5f0d5f4-820c-4cfa-b0f0-c7b3d72f1f39",
+    "imgSrc": "24_cover.png",
+    "name": "Project 26",
+    "description": "Sit aliquip incididunt adipisicing et proident est eiusmod adipisicing nostrud magna.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 6,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 50,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 69944,
+    "sale_start": "03-11-2019",
+    "sale_end": "24-01-2020",
+    "sale_price": 28735,
+    "rentable": true,
+    "rentable_price": 22973,
+    "created_at": "30-12-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 3
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      1,
+      3,
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 16890
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 21465
+      },
+      {
+        "name": "Ferde tető",
+        "price": 28477
+      },
+      {
+        "name": "Ülőpad",
+        "price": 11585
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "guid": "21de8873-cdf3-4ca5-8be7-764c921d015b",
+    "imgSrc": "24_cover.png",
+    "name": "Project 11",
+    "description": "Non cupidatat reprehenderit magna voluptate irure nulla anim consequat incididunt duis nulla adipisicing.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 4,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 44,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 156459,
+    "sale_start": "21-10-2019",
+    "sale_end": "12-04-2020",
+    "sale_price": 13146,
+    "rentable": true,
+    "rentable_price": 23297,
+    "created_at": "11-10-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 300
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      1,
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 23159
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 28189
+      },
+      {
+        "name": "Ferde tető",
+        "price": 11661
+      },
+      {
+        "name": "Ülőpad",
+        "price": 25304
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "guid": "b25a98a0-f680-4238-a832-49f07c58ad90",
+    "imgSrc": "24_cover.png",
+    "name": "Project 21",
+    "description": "Id nisi mollit aliqua aliquip.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 10,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 54318,
+    "sale_start": "18-11-2019",
+    "sale_end": "20-01-2020",
+    "sale_price": 13524,
+    "rentable": true,
+    "rentable_price": 21203,
+    "created_at": "25-09-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 18907
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 19570
+      },
+      {
+        "name": "Ferde tető",
+        "price": 26656
+      },
+      {
+        "name": "Ülőpad",
+        "price": 25212
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "guid": "c946d48e-9f9c-4a43-870d-13a2b35551e6",
+    "imgSrc": "24_cover.png",
+    "name": "Project 6",
+    "description": "Lorem ipsum adipisicing do sint enim.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 1,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 36,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 199686,
+    "sale_start": "01-11-2019",
+    "sale_end": "05-03-2020",
+    "sale_price": 27046,
+    "rentable": false,
+    "rentable_price": 19430,
+    "created_at": "26-05-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 6
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      2,
+      6,
+      1,
+      1
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 17592
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 28943
+      },
+      {
+        "name": "Ferde tető",
+        "price": 19295
+      },
+      {
+        "name": "Ülőpad",
+        "price": 14408
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "guid": "cca16d0c-c400-4caf-b089-088efd4bf2c6",
+    "imgSrc": "24_cover.png",
+    "name": "Project 24",
+    "description": "Dolor eiusmod minim aliqua ad ea cillum culpa veniam cillum laborum.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 1,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 41,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 124166,
+    "sale_start": "31-12-2019",
+    "sale_end": "12-01-2020",
+    "sale_price": 28079,
+    "rentable": true,
+    "rentable_price": 15808,
+    "created_at": "11-05-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3100
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 3
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 300
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      4,
+      5,
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 28605
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 27817
+      },
+      {
+        "name": "Ferde tető",
+        "price": 22881
+      },
+      {
+        "name": "Ülőpad",
+        "price": 10157
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "guid": "45df6acb-dcbe-40e0-8aef-c291ec90cc21",
+    "imgSrc": "24_cover.png",
+    "name": "Project 30",
+    "description": "Laborum cillum laboris cillum id nulla voluptate incididunt minim ex duis ea.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 2,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 26,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 33199,
+    "sale_start": "03-11-2019",
+    "sale_end": "24-03-2020",
+    "sale_price": 10174,
+    "rentable": true,
+    "rentable_price": 22628,
+    "created_at": "24-06-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 1
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      4,
+      2,
+      3,
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 23542
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 29787
+      },
+      {
+        "name": "Ferde tető",
+        "price": 25864
+      },
+      {
+        "name": "Ülőpad",
+        "price": 26552
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "guid": "956eed2b-455b-4b8e-8c83-43246751ccae",
+    "imgSrc": "24_cover.png",
+    "name": "Project 4",
+    "description": "Cupidatat velit nostrud do eiusmod.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 1,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 22,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 81535,
+    "sale_start": "19-12-2019",
+    "sale_end": "05-02-2020",
+    "sale_price": 20301,
+    "rentable": false,
+    "rentable_price": 27653,
+    "created_at": "22-08-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 4
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      2,
+      3
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 11539
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 27704
+      },
+      {
+        "name": "Ferde tető",
+        "price": 17891
+      },
+      {
+        "name": "Ülőpad",
+        "price": 26028
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "guid": "080f3c35-d912-49db-9866-1a71717c828a",
+    "imgSrc": "24_cover.png",
+    "name": "Project 22",
+    "description": "Irure voluptate quis elit occaecat ex magna sit.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 1,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 29,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 145458,
+    "sale_start": "04-10-2019",
+    "sale_end": "28-03-2020",
+    "sale_price": 21329,
+    "rentable": false,
+    "rentable_price": 26074,
+    "created_at": "14-05-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 700
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      4,
+      4,
+      6,
+      3,
+      1
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 23884
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 25090
+      },
+      {
+        "name": "Ferde tető",
+        "price": 21988
+      },
+      {
+        "name": "Ülőpad",
+        "price": 16884
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "guid": "b90a8582-cf1a-44e5-8b6b-cf570107c12d",
+    "imgSrc": "24_cover.png",
+    "name": "Project 10",
+    "description": "Irure non fugiat quis eu nisi ullamco reprehenderit cupidatat labore.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 4,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 28,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 58050,
+    "sale_start": "18-11-2019",
+    "sale_end": "02-01-2020",
+    "sale_price": 24239,
+    "rentable": true,
+    "rentable_price": 12519,
+    "created_at": "04-06-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 3
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 13936
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 24387
+      },
+      {
+        "name": "Ferde tető",
+        "price": 23168
+      },
+      {
+        "name": "Ülőpad",
+        "price": 11684
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "guid": "fc1fc65d-a866-4530-8887-184716bf668c",
+    "imgSrc": "24_cover.png",
+    "name": "Project 16",
+    "description": "Do id pariatur incididunt fugiat occaecat.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 4,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 14,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 92847,
+    "sale_start": "20-11-2019",
+    "sale_end": "16-02-2020",
+    "sale_price": 20348,
+    "rentable": true,
+    "rentable_price": 22627,
+    "created_at": "19-12-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      2,
+      2
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 20546
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 17436
+      },
+      {
+        "name": "Ferde tető",
+        "price": 12770
+      },
+      {
+        "name": "Ülőpad",
+        "price": 25029
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "guid": "7edd764a-5512-4643-8f2c-3d42ec2d2779",
+    "imgSrc": "24_cover.png",
+    "name": "Project 8",
+    "description": "Ea eiusmod incididunt reprehenderit tempor aliquip occaecat commodo ut magna est.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 4,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 48,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 65518,
+    "sale_start": "27-10-2019",
+    "sale_end": "11-02-2020",
+    "sale_price": 25129,
+    "rentable": true,
+    "rentable_price": 26032,
+    "created_at": "16-08-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 10000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 3
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      6
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 27534
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 14129
+      },
+      {
+        "name": "Ferde tető",
+        "price": 14752
+      },
+      {
+        "name": "Ülőpad",
+        "price": 25447
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "guid": "7e879051-4e8a-42cd-9bb7-5ac5de6210e5",
+    "imgSrc": "24_cover.png",
+    "name": "Project 39",
+    "description": "Occaecat magna amet aliqua excepteur exercitation sit reprehenderit id mollit officia magna pariatur deserunt commodo.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 4,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 9,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 140208,
+    "sale_start": "26-12-2019",
+    "sale_end": "23-02-2020",
+    "sale_price": 14478,
+    "rentable": true,
+    "rentable_price": 14996,
+    "created_at": "30-12-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 6
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 300
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      6,
+      1
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 16659
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 21535
+      },
+      {
+        "name": "Ferde tető",
+        "price": 25952
+      },
+      {
+        "name": "Ülőpad",
+        "price": 23915
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "guid": "7610bace-1f99-40ba-8293-99c3a8fafdf5",
+    "imgSrc": "24_cover.png",
+    "name": "Project 23",
+    "description": "Sunt esse pariatur aute in cupidatat et fugiat aliquip.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 2,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 14,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 193705,
+    "sale_start": "15-10-2019",
+    "sale_end": "11-02-2020",
+    "sale_price": 16906,
+    "rentable": false,
+    "rentable_price": 22103,
+    "created_at": "02-06-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 3
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      5
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 10034
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 18110
+      },
+      {
+        "name": "Ferde tető",
+        "price": 19708
+      },
+      {
+        "name": "Ülőpad",
+        "price": 19983
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "guid": "b8004ef6-b29e-4af4-b144-05a79be61058",
+    "imgSrc": "24_cover.png",
+    "name": "Project 28",
+    "description": "Nisi enim officia deserunt quis ad.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 5,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 117146,
+    "sale_start": "05-12-2019",
+    "sale_end": "21-02-2020",
+    "sale_price": 14311,
+    "rentable": false,
+    "rentable_price": 22379,
+    "created_at": "19-10-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 1
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      3,
+      4,
+      2,
+      3
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 20454
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 20418
+      },
+      {
+        "name": "Ferde tető",
+        "price": 28270
+      },
+      {
+        "name": "Ülőpad",
+        "price": 12036
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "guid": "208eea95-e2f5-4403-8b88-2b5294a8b089",
+    "imgSrc": "24_cover.png",
+    "name": "Project 5",
+    "description": "Proident consequat dolor est id magna proident eu consequat.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 13,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 126170,
+    "sale_start": "09-12-2019",
+    "sale_end": "20-01-2020",
+    "sale_price": 23378,
+    "rentable": true,
+    "rentable_price": 18708,
+    "created_at": "28-07-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 3
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      6,
+      6,
+      2
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 19921
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 16264
+      },
+      {
+        "name": "Ferde tető",
+        "price": 29960
+      },
+      {
+        "name": "Ülőpad",
+        "price": 22369
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "guid": "1a1ce610-a06a-441c-adcf-6f9d37cda5c5",
+    "imgSrc": "24_cover.png",
+    "name": "Project 11",
+    "description": "Sit minim velit ut enim proident laborum aliqua occaecat duis veniam.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 3,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 50,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 79910,
+    "sale_start": "24-12-2019",
+    "sale_end": "11-04-2020",
+    "sale_price": 26584,
+    "rentable": true,
+    "rentable_price": 26522,
+    "created_at": "12-10-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      4,
+      5
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 25584
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 20097
+      },
+      {
+        "name": "Ferde tető",
+        "price": 19222
+      },
+      {
+        "name": "Ülőpad",
+        "price": 16925
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "guid": "9c9cb0ca-8f28-4eb6-add9-13cc0e8de301",
+    "imgSrc": "24_cover.png",
+    "name": "Project 28",
+    "description": "Quis proident magna ipsum duis ea.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 4,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 5,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 130688,
+    "sale_start": "13-11-2019",
+    "sale_end": "15-04-2020",
+    "sale_price": 28567,
+    "rentable": false,
+    "rentable_price": 21346,
+    "created_at": "12-07-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 2
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      1,
+      4,
+      2,
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 12128
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 11094
+      },
+      {
+        "name": "Ferde tető",
+        "price": 21465
+      },
+      {
+        "name": "Ülőpad",
+        "price": 10003
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "guid": "99947183-f752-4fcc-a672-1ed19b5e2835",
+    "imgSrc": "24_cover.png",
+    "name": "Project 33",
+    "description": "Non cillum sint dolor veniam nisi.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 3,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 50,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 33710,
+    "sale_start": "07-11-2019",
+    "sale_end": "16-03-2020",
+    "sale_price": 16512,
+    "rentable": false,
+    "rentable_price": 15418,
+    "created_at": "03-07-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3100
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 700
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      3
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 29402
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 27739
+      },
+      {
+        "name": "Ferde tető",
+        "price": 13848
+      },
+      {
+        "name": "Ülőpad",
+        "price": 15660
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "guid": "2de8f91e-9430-49d3-b045-8211911c8707",
+    "imgSrc": "24_cover.png",
+    "name": "Project 14",
+    "description": "Dolore aute amet duis aute eu nulla fugiat eu eu.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 46,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 143237,
+    "sale_start": "21-11-2019",
+    "sale_end": "18-04-2020",
+    "sale_price": 19138,
+    "rentable": true,
+    "rentable_price": 25386,
+    "created_at": "16-08-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 6
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      5,
+      1,
+      1,
+      1
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 12275
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 25198
+      },
+      {
+        "name": "Ferde tető",
+        "price": 20466
+      },
+      {
+        "name": "Ülőpad",
+        "price": 18825
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "guid": "262d702e-2bcb-4a81-8c40-cf66904f35f1",
+    "imgSrc": "24_cover.png",
+    "name": "Project 20",
+    "description": "Qui duis officia ut culpa.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 2,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 6,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 146027,
+    "sale_start": "16-11-2019",
+    "sale_end": "29-03-2020",
+    "sale_price": 21704,
+    "rentable": true,
+    "rentable_price": 18934,
+    "created_at": "17-08-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 3
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 700
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      1,
+      4,
+      4,
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 25473
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 15961
+      },
+      {
+        "name": "Ferde tető",
+        "price": 13054
+      },
+      {
+        "name": "Ülőpad",
+        "price": 10731
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "guid": "b5625d7f-f588-4ecd-a8bb-79e4ab891934",
+    "imgSrc": "24_cover.png",
+    "name": "Project 15",
+    "description": "Voluptate velit voluptate labore velit.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 2,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 8,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 120087,
+    "sale_start": "21-10-2019",
+    "sale_end": "12-04-2020",
+    "sale_price": 29052,
+    "rentable": false,
+    "rentable_price": 29068,
+    "created_at": "06-05-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 1
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      5,
+      5,
+      2,
+      6
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 12298
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 28041
+      },
+      {
+        "name": "Ferde tető",
+        "price": 29437
+      },
+      {
+        "name": "Ülőpad",
+        "price": 19737
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "guid": "0b229c87-13d7-43f0-8cfb-0ef23022338d",
+    "imgSrc": "24_cover.png",
+    "name": "Project 12",
+    "description": "Voluptate irure do incididunt Lorem proident et qui sunt culpa mollit velit.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 3,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 10,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 172576,
+    "sale_start": "29-10-2019",
+    "sale_end": "18-03-2020",
+    "sale_price": 12423,
+    "rentable": false,
+    "rentable_price": 26471,
+    "created_at": "21-05-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 10000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 4
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 300
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      3
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 20995
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 11982
+      },
+      {
+        "name": "Ferde tető",
+        "price": 25598
+      },
+      {
+        "name": "Ülőpad",
+        "price": 14615
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "guid": "aacd3424-6d54-421d-a0f3-6e043ea02570",
+    "imgSrc": "24_cover.png",
+    "name": "Project 40",
+    "description": "Est dolor esse ea non magna ut nisi veniam eiusmod incididunt qui sint.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 2,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 31,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 108009,
+    "sale_start": "28-11-2019",
+    "sale_end": "12-01-2020",
+    "sale_price": 19032,
+    "rentable": false,
+    "rentable_price": 24071,
+    "created_at": "17-06-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 700
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      6,
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 25269
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 29490
+      },
+      {
+        "name": "Ferde tető",
+        "price": 13379
+      },
+      {
+        "name": "Ülőpad",
+        "price": 22201
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "guid": "e2992668-3431-426d-bab0-6a35a32369f2",
+    "imgSrc": "24_cover.png",
+    "name": "Project 35",
+    "description": "Est laboris cillum sit excepteur ipsum.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 6,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 37,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 137982,
+    "sale_start": "29-11-2019",
+    "sale_end": "06-03-2020",
+    "sale_price": 18566,
+    "rentable": true,
+    "rentable_price": 15754,
+    "created_at": "30-10-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 10000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 6
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      3,
+      3,
+      4,
+      1,
+      1
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 21679
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 27574
+      },
+      {
+        "name": "Ferde tető",
+        "price": 20390
+      },
+      {
+        "name": "Ülőpad",
+        "price": 25744
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "guid": "dedbbe9c-4cb4-44f6-987f-184d42380479",
+    "imgSrc": "24_cover.png",
+    "name": "Project 29",
+    "description": "Proident ipsum cupidatat qui fugiat mollit est pariatur incididunt id consequat Lorem.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 32,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 154747,
+    "sale_start": "02-11-2019",
+    "sale_end": "30-01-2020",
+    "sale_price": 22762,
+    "rentable": true,
+    "rentable_price": 26645,
+    "created_at": "13-12-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 4
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 300
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      3,
+      5
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 18380
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 17541
+      },
+      {
+        "name": "Ferde tető",
+        "price": 23787
+      },
+      {
+        "name": "Ülőpad",
+        "price": 13782
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "guid": "e5275c67-e96b-48a9-86ff-5af46c1c8749",
+    "imgSrc": "24_cover.png",
+    "name": "Project 30",
+    "description": "Fugiat sunt non aliqua amet non anim in ullamco id dolore ea do cillum in.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 6,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 21,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 94430,
+    "sale_start": "04-10-2019",
+    "sale_end": "18-01-2020",
+    "sale_price": 21588,
+    "rentable": false,
+    "rentable_price": 18031,
+    "created_at": "09-08-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 2
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 300
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      6,
+      5,
+      2,
+      6
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 12107
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 14307
+      },
+      {
+        "name": "Ferde tető",
+        "price": 28603
+      },
+      {
+        "name": "Ülőpad",
+        "price": 24628
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "guid": "54991803-868f-4dc6-bb2f-d9b2e3197f8c",
+    "imgSrc": "24_cover.png",
+    "name": "Project 17",
+    "description": "Magna mollit exercitation aliquip officia velit magna et ut culpa.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 26,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 176629,
+    "sale_start": "14-12-2019",
+    "sale_end": "05-04-2020",
+    "sale_price": 26010,
+    "rentable": true,
+    "rentable_price": 27228,
+    "created_at": "15-12-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3100
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 1
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 19917
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 14274
+      },
+      {
+        "name": "Ferde tető",
+        "price": 28543
+      },
+      {
+        "name": "Ülőpad",
+        "price": 10156
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "guid": "fbc207f3-c8be-4381-b0d1-c88f164a4eb4",
+    "imgSrc": "24_cover.png",
+    "name": "Project 2",
+    "description": "Quis do incididunt ea magna.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 4,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 4,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 174819,
+    "sale_start": "12-10-2019",
+    "sale_end": "21-03-2020",
+    "sale_price": 16991,
+    "rentable": false,
+    "rentable_price": 16419,
+    "created_at": "01-08-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3100
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 700
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      5,
+      5
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 23990
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 16929
+      },
+      {
+        "name": "Ferde tető",
+        "price": 22874
+      },
+      {
+        "name": "Ülőpad",
+        "price": 21208
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "guid": "e756b86a-7eb1-4fe5-86a0-d8090d22b8e1",
+    "imgSrc": "24_cover.png",
+    "name": "Project 35",
+    "description": "Voluptate quis anim commodo reprehenderit nulla occaecat nisi dolor aliquip do sit.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 1,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 33,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 87362,
+    "sale_start": "07-11-2019",
+    "sale_end": "14-03-2020",
+    "sale_price": 27881,
+    "rentable": false,
+    "rentable_price": 10408,
+    "created_at": "09-08-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 6
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 17059
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 10330
+      },
+      {
+        "name": "Ferde tető",
+        "price": 24093
+      },
+      {
+        "name": "Ülőpad",
+        "price": 27370
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "guid": "5e17d371-7f2f-4928-acf4-6375ca1652de",
+    "imgSrc": "24_cover.png",
+    "name": "Project 38",
+    "description": "Irure esse sunt proident dolore.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 6,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 36,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 147181,
+    "sale_start": "08-10-2019",
+    "sale_end": "31-03-2020",
+    "sale_price": 23349,
+    "rentable": false,
+    "rentable_price": 24973,
+    "created_at": "13-07-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 6
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 700
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 17686
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 26226
+      },
+      {
+        "name": "Ferde tető",
+        "price": 13645
+      },
+      {
+        "name": "Ülőpad",
+        "price": 27685
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "guid": "9b19b480-ce17-4f61-824c-3809a24be27d",
+    "imgSrc": "24_cover.png",
+    "name": "Project 28",
+    "description": "Est nulla irure cupidatat aute aliquip.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 3,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 7,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 126531,
+    "sale_start": "03-12-2019",
+    "sale_end": "21-03-2020",
+    "sale_price": 10174,
+    "rentable": false,
+    "rentable_price": 25304,
+    "created_at": "20-12-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 10000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 3
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      6,
+      5,
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 29781
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 22455
+      },
+      {
+        "name": "Ferde tető",
+        "price": 13195
+      },
+      {
+        "name": "Ülőpad",
+        "price": 20111
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "guid": "973a16f6-504a-49c3-ba74-c54bd12f3031",
+    "imgSrc": "24_cover.png",
+    "name": "Project 14",
+    "description": "Eiusmod dolore sit magna aliqua laborum excepteur laboris eu ea laboris dolor do.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 6,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 35,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 160779,
+    "sale_start": "17-10-2019",
+    "sale_end": "30-03-2020",
+    "sale_price": 16941,
+    "rentable": true,
+    "rentable_price": 23312,
+    "created_at": "05-05-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 10000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 2
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 700
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 18094
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 23613
+      },
+      {
+        "name": "Ferde tető",
+        "price": 29584
+      },
+      {
+        "name": "Ülőpad",
+        "price": 18660
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "guid": "b4a482d9-d3a6-446e-bf77-c760ea94d9bd",
+    "imgSrc": "24_cover.png",
+    "name": "Project 36",
+    "description": "Fugiat in et quis dolor sit dolore ex aute sint nostrud.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 2,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 2,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 139310,
+    "sale_start": "19-11-2019",
+    "sale_end": "20-03-2020",
+    "sale_price": 24712,
+    "rentable": true,
+    "rentable_price": 15911,
+    "created_at": "27-07-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 10000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 24241
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 25000
+      },
+      {
+        "name": "Ferde tető",
+        "price": 12527
+      },
+      {
+        "name": "Ülőpad",
+        "price": 29714
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "guid": "ce73fdb0-5360-40b6-bef9-d0563e6b865b",
+    "imgSrc": "24_cover.png",
+    "name": "Project 19",
+    "description": "Est irure occaecat laborum pariatur velit eu magna Lorem laborum aute.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 4,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 48,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 107771,
+    "sale_start": "14-12-2019",
+    "sale_end": "10-01-2020",
+    "sale_price": 29775,
+    "rentable": true,
+    "rentable_price": 27306,
+    "created_at": "23-11-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 10000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 4
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      6,
+      1,
+      4,
+      3
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 11507
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 10935
+      },
+      {
+        "name": "Ferde tető",
+        "price": 14534
+      },
+      {
+        "name": "Ülőpad",
+        "price": 18222
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "guid": "f95fdc1b-5bfd-4a1f-85f2-4aafb9bca99e",
+    "imgSrc": "24_cover.png",
+    "name": "Project 20",
+    "description": "Occaecat exercitation elit duis qui amet dolore commodo est adipisicing excepteur eu occaecat dolore veniam.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 36,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 82474,
+    "sale_start": "30-12-2019",
+    "sale_end": "12-03-2020",
+    "sale_price": 28838,
+    "rentable": false,
+    "rentable_price": 10289,
+    "created_at": "06-12-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 10000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 6
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      4,
+      2,
+      1,
+      5
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 29383
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 26387
+      },
+      {
+        "name": "Ferde tető",
+        "price": 21439
+      },
+      {
+        "name": "Ülőpad",
+        "price": 22482
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "guid": "b41ebbc1-f8a4-43b0-8fca-e794c549f642",
+    "imgSrc": "24_cover.png",
+    "name": "Project 11",
+    "description": "Magna minim fugiat veniam et irure eu.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 8,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 111913,
+    "sale_start": "17-10-2019",
+    "sale_end": "27-02-2020",
+    "sale_price": 21398,
+    "rentable": true,
+    "rentable_price": 15161,
+    "created_at": "20-11-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 4
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 700
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 23383
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 10157
+      },
+      {
+        "name": "Ferde tető",
+        "price": 20162
+      },
+      {
+        "name": "Ülőpad",
+        "price": 10451
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "guid": "fba79ff6-69b4-484d-8961-428a2eab292e",
+    "imgSrc": "24_cover.png",
+    "name": "Project 19",
+    "description": "Nulla irure excepteur eu dolore dolore magna irure eu labore laborum velit.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 2,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 46,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 121854,
+    "sale_start": "30-12-2019",
+    "sale_end": "09-04-2020",
+    "sale_price": 11495,
+    "rentable": false,
+    "rentable_price": 12121,
+    "created_at": "14-07-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3100
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 4
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 300
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      3
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 18864
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 27301
+      },
+      {
+        "name": "Ferde tető",
+        "price": 19151
+      },
+      {
+        "name": "Ülőpad",
+        "price": 13210
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "guid": "0237eda4-b66a-4679-a0e9-67b59f3c9fd1",
+    "imgSrc": "24_cover.png",
+    "name": "Project 21",
+    "description": "Proident aliqua laboris dolor nulla pariatur Lorem qui ad velit sit ullamco sint nostrud.",
+    "mainCategoryID": 4,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 41,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 104253,
+    "sale_start": "17-11-2019",
+    "sale_end": "23-03-2020",
+    "sale_price": 25654,
+    "rentable": false,
+    "rentable_price": 25812,
+    "created_at": "22-06-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 20000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 6
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      1,
+      3,
+      5,
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 11231
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 13500
+      },
+      {
+        "name": "Ferde tető",
+        "price": 12947
+      },
+      {
+        "name": "Ülőpad",
+        "price": 26335
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "guid": "edd74e8f-38cd-47bb-96f1-8131f38ff6a9",
+    "imgSrc": "24_cover.png",
+    "name": "Project 8",
+    "description": "Dolore non cupidatat et incididunt deserunt aute est sunt Lorem cupidatat sunt.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 6,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 20,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 171781,
+    "sale_start": "03-10-2019",
+    "sale_end": "09-01-2020",
+    "sale_price": 27222,
+    "rentable": false,
+    "rentable_price": 23667,
+    "created_at": "21-06-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 4
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 90
+      }
+    ],
+    "lockers": [
+      3,
+      5
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 13403
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 18136
+      },
+      {
+        "name": "Ferde tető",
+        "price": 19279
+      },
+      {
+        "name": "Ülőpad",
+        "price": 12269
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "guid": "19218853-52cc-49c9-9103-696966db86b1",
+    "imgSrc": "24_cover.png",
+    "name": "Project 10",
+    "description": "Cupidatat ut eiusmod quis commodo dolor et.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 6,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 1,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 135549,
+    "sale_start": "10-10-2019",
+    "sale_end": "27-04-2020",
+    "sale_price": 20917,
+    "rentable": false,
+    "rentable_price": 25730,
+    "created_at": "03-11-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3100
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      4,
+      3,
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 28303
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 13082
+      },
+      {
+        "name": "Ferde tető",
+        "price": 19418
+      },
+      {
+        "name": "Ülőpad",
+        "price": 15424
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "guid": "819869a7-e789-4857-8bf6-78780cc1a0b1",
+    "imgSrc": "24_cover.png",
+    "name": "Project 15",
+    "description": "Aute cupidatat occaecat esse laborum aliqua in culpa qui fugiat.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 6,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 25,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 125723,
+    "sale_start": "08-12-2019",
+    "sale_end": "01-03-2020",
+    "sale_price": 25626,
+    "rentable": false,
+    "rentable_price": 13551,
+    "created_at": "16-07-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 1000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 6
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 700
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      4
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 12760
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 15878
+      },
+      {
+        "name": "Ferde tető",
+        "price": 27595
+      },
+      {
+        "name": "Ülőpad",
+        "price": 26488
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "guid": "0133ad22-da81-4634-a500-935efa23c081",
+    "imgSrc": "24_cover.png",
+    "name": "Project 11",
+    "description": "Quis aliqua cillum ut commodo deserunt aliquip ea do.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 4,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 31,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 94743,
+    "sale_start": "15-10-2019",
+    "sale_end": "16-03-2020",
+    "sale_price": 22439,
+    "rentable": true,
+    "rentable_price": 21514,
+    "created_at": "04-12-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 10000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3100
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 6
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      5,
+      6,
+      2,
+      5,
+      5
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 10948
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 26489
+      },
+      {
+        "name": "Ferde tető",
+        "price": 17119
+      },
+      {
+        "name": "Ülőpad",
+        "price": 15043
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "guid": "65a9665d-9494-4feb-b9c1-8ea7855bcaaf",
+    "imgSrc": "24_cover.png",
+    "name": "Project 8",
+    "description": "Proident incididunt deserunt quis officia ad anim reprehenderit.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 1,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 21,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 105095,
+    "sale_start": "09-10-2019",
+    "sale_end": "13-02-2020",
+    "sale_price": 28785,
+    "rentable": true,
+    "rentable_price": 12859,
+    "created_at": "27-07-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 2000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 5
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 18673
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 29463
+      },
+      {
+        "name": "Ferde tető",
+        "price": 19963
+      },
+      {
+        "name": "Ülőpad",
+        "price": 26260
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "guid": "f7b2e6da-f66b-42be-b6a0-2ff95daa824e",
+    "imgSrc": "24_cover.png",
+    "name": "Project 8",
+    "description": "Officia cillum deserunt cupidatat sit duis id.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 19,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 82448,
+    "sale_start": "08-10-2019",
+    "sale_end": "08-02-2020",
+    "sale_price": 26513,
+    "rentable": false,
+    "rentable_price": 24714,
+    "created_at": "24-05-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3100
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 2
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 300
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      6,
+      1,
+      2,
+      5,
+      3
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 11648
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 21066
+      },
+      {
+        "name": "Ferde tető",
+        "price": 21474
+      },
+      {
+        "name": "Ülőpad",
+        "price": 26855
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "guid": "f264e3c5-7408-4afe-9c22-1f2ea0128f03",
+    "imgSrc": "24_cover.png",
+    "name": "Project 8",
+    "description": "Irure duis laborum laboris elit qui aute tempor ut.",
+    "mainCategoryID": 3,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 2,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 26,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 31779,
+    "sale_start": "11-11-2019",
+    "sale_end": "02-04-2020",
+    "sale_price": 26135,
+    "rentable": true,
+    "rentable_price": 19478,
+    "created_at": "01-05-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3100
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 2
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      3
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 24623
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 18508
+      },
+      {
+        "name": "Ferde tető",
+        "price": 16483
+      },
+      {
+        "name": "Ülőpad",
+        "price": 19789
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "guid": "2eb1daca-64bd-4053-aba6-5d479e2288ff",
+    "imgSrc": "24_cover.png",
+    "name": "Project 21",
+    "description": "Eu cupidatat pariatur consectetur aute consequat mollit ad nostrud ad nisi.",
+    "mainCategoryID": 2,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 5,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 18,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 43723,
+    "sale_start": "23-11-2019",
+    "sale_end": "27-02-2020",
+    "sale_price": 16489,
+    "rentable": true,
+    "rentable_price": 16883,
+    "created_at": "09-06-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 31000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 1
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 1000
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 50
+      }
+    ],
+    "lockers": [],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 27711
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 15901
+      },
+      {
+        "name": "Ferde tető",
+        "price": 10469
+      },
+      {
+        "name": "Ülőpad",
+        "price": 12418
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "guid": "dda60506-3833-4542-a817-2e5275011b7d",
+    "imgSrc": "24_cover.png",
+    "name": "Project 8",
+    "description": "Ipsum consectetur esse nisi ullamco minim reprehenderit laborum veniam consectetur elit id amet velit.",
+    "mainCategoryID": 1,
+    "mainCategoryName": "Öltöző",
+    "categoryID": 2,
+    "categoryName": "Öltözőszekrény",
+    "productGroupID": 40,
+    "productGroupName": "hosszú ajtós Öltözőszekrény",
+    "fix_price": 198310,
+    "sale_start": "19-12-2019",
+    "sale_end": "12-01-2020",
+    "sale_price": 29930,
+    "rentable": false,
+    "rentable_price": 11948,
+    "created_at": "22-08-2019",
+    "features": [
+      {
+        "feature_id": 1,
+        "feature_name": "szekrénymagasság",
+        "value": 30000
+      },
+      {
+        "feature_id": 2,
+        "feature_name": "rekesszélesség",
+        "value": 3000
+      },
+      {
+        "feature_id": 3,
+        "feature_name": "ajtók száma",
+        "value": 2
+      },
+      {
+        "feature_id": 4,
+        "feature_name": "rekesz szélessége",
+        "value": 500
+      },
+      {
+        "feature_id": 5,
+        "feature_name": "ajtótípus",
+        "value": "<ReferenceError: hosszú is not defined>"
+      },
+      {
+        "feature_id": 6,
+        "feature_name": "súly",
+        "value": 70
+      }
+    ],
+    "lockers": [
+      2,
+      2,
+      1,
+      4,
+      6
+    ],
+    "extras": [
+      {
+        "name": "ajtófestés",
+        "price": 3450,
+        "colors": [
+          {
+            "color_name": "Bézs",
+            "color_value": "#E6D690"
+          },
+          {
+            "color_name": "Narancs",
+            "color_value": "#F54021"
+          },
+          {
+            "color_name": "Sárga",
+            "color_value": "#E5BE01"
+          }
+        ]
+      },
+      {
+        "name": "külső törülközőtartó",
+        "price": 14727
+      },
+      {
+        "name": "Cipőtálca öltözőszekrénybe",
+        "price": 19219
+      },
+      {
+        "name": "Ferde tető",
+        "price": 27638
+      },
+      {
+        "name": "Ülőpad",
+        "price": 28306
+      }
+    ]
+  }
+]
